@@ -1,0 +1,191 @@
+body {
+	margin: 0;
+	height: 100%
+}
+
+#LP {
+	width: 100%;
+	margin: 0 auto;
+	background-image: url("images/intro-bg.jpg");
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+	padding: 350px 0;
+}
+
+.container1 {
+	width: 98%;
+	color: white;
+	display: inline-block;
+	font-family: Arial,  sans-serif;
+	margin: auto;
+  	  	}
+.container1 h1 {
+	font-size: 4em;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.container1 p {
+    margin-top: 50px;
+    font-size: 1.5em;
+    text-align: center;
+  }
+
+
+.networks {
+	display: inline-block;
+  	justify-content: center;
+  	margin-left: 33%;  	
+}
+
+button.Twitter:hover {
+	/*baclground: ;*/
+	baclground-image: url(u85-r.png);
+}
+
+.networks button {
+	display: inline-block;
+	align-items: center;
+	margin: 15px;
+	text-decoration: none;
+	cursor: pointer;	
+}
+
+#content {
+	width: 98%;
+	margin: auto;
+	}
+
+.block1 {
+	width: 90%;
+	height: 430px;
+	margin: auto;
+	overflow: auto;
+	display: inline-block;
+}
+	div.text1,
+	div.text3
+	 {
+		margin-left: 100px;
+		}
+	
+	div.text2 {
+		margin-right: 100px;	
+	}
+
+	div.image1 {
+		float: right;
+		margin-right: 100px;	
+	}
+
+	.block1 img {
+		margin-top: -50%;
+		padding-right: 10px;
+		
+		
+	} 
+	.block1 p:first-child {
+		font-size: 3em;
+		font-weight: bold;
+		
+	}
+	.block1 p {
+		font-size: 1.5em;
+		font-weight: normal;
+		text-align: left;
+		margin-bottom: 0;
+	}
+
+	.block2 {
+		width: 90%;
+		margin: auto;
+		overflow: auto;
+		display: inline-block;
+	}
+		div.image2 {
+		float: left;
+		margin-left: 100px;	
+		 }
+
+		.block2 img {
+			margin-top: -220px;
+			}
+
+		.block2 p:first-child {
+		font-size: 3em;
+		font-weight: bold;
+				}
+
+		.block2 p {
+		font-size: 1.5em;
+		font-weight: normal;
+		text-align: right;
+		margin-bottom: 0;
+		}
+
+
+		.block3 {
+			width: 90%;
+			/*height: 345px;*/
+			margin: auto;
+			overflow: auto;
+			display: inline-block;
+		}
+
+
+		div.image3 {
+		float: right;
+				}
+
+		.block3 img {
+			margin-top: -170px;
+			margin-right: 100px;
+		}
+
+		.block3 p:first-child {
+				font-size: 3em;
+				font-weight: bold;
+							}
+
+		.block3 p {
+				font-size: 1.5em;
+				font-weight: normal;
+				text-align: left;
+				margin-bottom: 0;
+			}
+
+#bottom {
+	height: 100%;
+	padding: 25% 0;
+	margin: auto;
+	background-image: url("images/banner-bg-u146-fr.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div.nav {
+	display: inline-block;
+}
+
+#bottom h3 {
+	padding-top: 10px;
+	font-weight: bold;
+	text-align: left;
+	margin-left:70px;
+	margin-bottom: 0;
+	color: white;
+	font-family: Arial, sans-serif;
+    font-size: 45px;	
+}
+
+.networks1 {
+	float:right;
+	padding-right: 20%; 	
+}
+
+.networks1 button {
+	margin: 0 15px;
+	text-decoration: none;
+	cursor: pointer;
+	margin-top: -140px;
+	}
